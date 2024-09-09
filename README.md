@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Deore</h1>
 <h3 align="center">A passionate Web Developer and Full Stack Java Developer from India</h3>
-<img align="right" src="C:\Users\91989\Downloads\Facebook-Linkedin-image-template-10.jpg">
-<img align="left" src="C:\Users\91989\Downloads\1687238682975.png">
+<img align="right"width=1000  height=400 src="https://sklc-tinymce-2021.s3.amazonaws.com/comp/2022/02/Advantage%20of%20Becoming%20A%20Full%20Stack%20Developer%20(1)_1644407782.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-deore&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi-deore" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-deore" alt="vaishnavi-deore" /></a> </p>
-
+<img align="right"width=500 height=300 src="https://media.licdn.com/dms/image/D5612AQGgF3S4jcyX8w/article-cover_image-shrink_600_2000/0/1687238682975?e=2147483647&v=beta&t=rTx3JrP7lW0Z3SqVlRwvNEeGDsIwu281jvSIIIYEKl8">
 - 🔭 I’m currently working on **DSA and Android Development**
 
 - 🌱 I’m currently learning **DSA using Java and Android development**
