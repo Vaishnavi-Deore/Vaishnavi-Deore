@@ -1,20 +1,20 @@
 <h3 align="center"></h3>
 <img align="right"width=1500  height=300 src="https://creationmedia.in/wp-content/uploads/2021/10/web-development-banner-in-patna.jpg">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=CCFF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋+There+!!;I+am+Vaishnavi+Deore+!!;A+Full+Stack+Web+Developer+!"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=02CCFE&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋+There+!!;I+am+Vaishnavi+Deore+!!;A+Full+Stack+Web+Developer+!"/>
 </h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 ### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/stats.gif" height="37"><br>
 <div align="justify">
-Hello! I'm <strong>Vaishnavi Deore</strong> from <a href="https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7">Maharashtra, India</a> an energetic and detail-oriented IT Engineering student at <a href="https://sanjivanicoe.org.in">Sanjivani College of Engineering</a> 📚🎓. I'm on a journey to bridge the digital world with innovation and learning. I'm passionate about Software Development and always on the lookout for new opportunities to grow my skills and contribute meaningfully. With a curious mind and a learning spirit, I'm actively building a strong foundation in DSA and Android development.
+Hello! I'm <strong>Vaishnavi Deore</strong> from <a href="https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7">Maharashtra, India</a> an energetic and detail-oriented IT Engineering student at <a href="https://sanjivanicoe.org.in">Sanjivani College of Engineering</a> 📚🎓. I'm on a journey to bridge the digital world with innovation and learning. I'm passionate about Software Development and always on the lookout for new opportunities to grow my skills and contribute meaningfully. With a curious mind and a learning spirit, I'm actively building a strong foundation in DSA and Web development.
 
 </div>
 
-- 🔭 I’m currently working on **DSA and Android Development**
+- 🔭 I’m currently working on **DSA and Web Development**
 
-- 🌱 I’m currently learning **DSA using Java and Android development**
+- 🌱 I’m currently learning **DSA using Java and Web development**
 
 - 💬 Ask me about **Java and Frontend Web Development**
 
@@ -163,7 +163,9 @@ src="https://img.shields.io/github/followers/Vaishnavi-Deore?logo=github&style=f
   </a>
 </div>
     
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=CCFF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Explore+my+projects+👨‍💻"/>
+</h1>
 
 <!--Footer-->
 <img 
