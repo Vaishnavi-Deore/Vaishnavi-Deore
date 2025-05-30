@@ -164,7 +164,7 @@ src="https://img.shields.io/github/followers/Vaishnavi-Deore?logo=github&style=f
 </div>
     
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=CCFF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Explore+my+projects+👨‍💻"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=CCFF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👨‍💻+Explore+my+projects+👨‍💻"/>
 </h1>
 
 <!--Footer-->
